@@ -1,4 +1,4 @@
-public class Star {
+public class RightHalfPyramidPattern {
     public static void main(String[] args) {
         int i,j;
         for(i=1;i<=5;i++) {
