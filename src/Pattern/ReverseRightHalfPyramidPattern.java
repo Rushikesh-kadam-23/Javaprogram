@@ -1,3 +1,5 @@
+package Pattern;
+
 public class ReverseRightHalfPyramidPattern {
     public static void main(String[] args) {
 

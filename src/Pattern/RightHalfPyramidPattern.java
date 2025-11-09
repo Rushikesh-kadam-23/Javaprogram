@@ -1,3 +1,5 @@
+package Pattern;
+
 public class RightHalfPyramidPattern {
     public static void main(String[] args) {
         int i,j;

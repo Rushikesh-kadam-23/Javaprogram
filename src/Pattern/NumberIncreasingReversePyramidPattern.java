@@ -1,3 +1,5 @@
+package Pattern;
+
 public class NumberIncreasingReversePyramidPattern
 {
     public static void main(String[] args)
