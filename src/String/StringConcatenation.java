@@ -1,6 +1,6 @@
 package String;
 
-public class String1 {
+public class StringConcatenation {
     public static void main(String[] args) {
         //Concatenation
 
