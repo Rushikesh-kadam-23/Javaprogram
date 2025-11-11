@@ -45,6 +45,24 @@ public class StringMethods {
         String Rstring2 = name.replace('r','k');
         System.out.println(Rstring2);
 
+        //charAt
+
+        String charname = "Rushi";
+        System.out.println(name.charAt(4));
+
+        //indexof
+
+        String modifiedname = "Rushishi";
+        System.out.println(modifiedname.indexOf("shi"));
+        System.out.println(modifiedname.indexOf("shi,4"));
+
+        //equals
+
+        System.out.println(name.equals("RUSHI"));
+
+        //equals ignore case
+
+        System.out.println(name.equalsIgnoreCase("ruShi"));
 
     }
 
