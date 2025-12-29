@@ -13,6 +13,4 @@ public class StringBufferProgram {
         sb.append("Rushi java");
         System.out.println(sb.capacity());              // (old capacity*2)+2 or (old capacity+1)*2
     }
-    // (34*2)+2=70
 }
-
