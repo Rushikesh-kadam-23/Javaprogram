@@ -16,7 +16,7 @@ public class Arraysorting {
         }
         for(int i=0;i<arr.length;i++){
 
-            System.out.print("Array index  "+i + " is "+arr[i]);
+            System.out.print("Array index  "+i +" is "+arr[i]);
         }
 
 

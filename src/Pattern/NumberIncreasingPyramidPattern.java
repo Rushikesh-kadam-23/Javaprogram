@@ -1,6 +1,7 @@
 package Pattern;
 
-public class NumberIncreasingPyramidPattern {
+public class
+NumberIncreasingPyramidPattern {
     public static void main(String[] args) {
 
         int i,j;
