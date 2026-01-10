@@ -15,8 +15,5 @@ public class MissingNumbers {
             int missingnumber = total - sum;
             System.out.println("missing numbers is : " + missingnumber);
 
-
-
-
     }
 }

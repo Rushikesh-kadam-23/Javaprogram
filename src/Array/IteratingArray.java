@@ -5,7 +5,7 @@ import java.util.Arrays;
 public class IteratingArray {
     public static void main(String[] args) {
 
-        int[] originalarr = {10,20,30,40,50,60};
+        int[] originalarr = {10, 20, 30, 40, 50, 60};
         int[] copiedarr = new int[originalarr.length];
 
         for (int i = 0; i < originalarr.length; i++) {
@@ -17,6 +17,5 @@ public class IteratingArray {
 
         }
         System.out.println();
-
     }
 }

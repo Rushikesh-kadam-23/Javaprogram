@@ -5,7 +5,7 @@ import java.util.Arrays;
 public class ArrayReverse {
     public static void main(String[] args) {
 
-        int arr[] ={8,2,7,4,5};
+        int arr[] = {8,2,7,4,5};
          int temp;
         for(int i=0;i<arr.length;i++){
 
@@ -20,10 +20,11 @@ public class ArrayReverse {
         }
         for(int i=0;i<arr.length;i++){
             System.out.print(arr[i]+" ");
+         }
+
+         }
 
         }
 
-        }
-    }
 
 
